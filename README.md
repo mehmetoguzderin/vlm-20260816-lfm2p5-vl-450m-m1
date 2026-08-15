@@ -20,3 +20,6 @@ Useful commands:
     uv run lfm_vl_stack.py logs --follow
     uv run lfm_vl_stack.py down
     uv run lfm_vl_stack.py self-check
+
+
+![](./screenshot.jpg)
